@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-soft-lips-whispering/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Your Soft Lips Whispering](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-soft-lips-whispering/) |
+| **Get License** | [Secure Licensing Rights for Your Soft Lips Whispering](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-soft-lips-whispering/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Close the door and let the shadows fall
+> Your soft lips whispering, answering the call
+> I feel the fire pulling at my soul
+> A slow burn starting, losing all control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
