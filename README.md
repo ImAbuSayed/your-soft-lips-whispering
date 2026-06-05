@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-soft-lips-whispering/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Your Soft Lips Whispering](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-soft-lips-whispering/) |
+| **Get License** | [Music Rights & Licensing for Your Soft Lips Whispering](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-soft-lips-whispering/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `51e91af563a25e42fa9b54b5eea338d7ae593490f8790ca5a189b5f6450b32af` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

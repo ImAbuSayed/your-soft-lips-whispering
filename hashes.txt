@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Soft Lips Whispering
+
+This log tracks the cryptographic history and versioning for the song **Your Soft Lips Whispering** (your-soft-lips-whispering).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T21:33:33.145301 | `v1` | `51e91af563a25e42fa9b54b5eea338d7ae593490f8790ca5a189b5f6450b32af` | `7c849f550bfcdffc2ead5f9fe059a4167f2647c2c9715544891c352c6d7ec282` | `2026-06-05_your-soft-lips-whispering-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
